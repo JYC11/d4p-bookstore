@@ -142,3 +142,4 @@ These are the steps I followed:
 3. Install dj-database-url > a way to parse database url env variables and automatically convert to proper configuration format
 4. Install heroku CLI and sign up to heroku
 
+I didn't actually deploy to heroku because I wanted to move on to API based projects. I want to deploy those. This project was to learn docker, postgres, various security stuff and a more detailed review of django.
